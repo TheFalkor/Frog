@@ -1,0 +1,6 @@
+C:\Users\heeee\source\repos\C++ 3\5sd813-assignment-3-nilsson-henrik\Frogger\Source\x64\Debug\nero.exe
+C:\Users\heeee\source\repos\C++ 3\5sd813-assignment-3-nilsson-henrik\Frogger\Source\x64\Debug\nero.pdb
+C:\Users\heeee\source\repos\Math\5sd813-assignment-3-nilsson-henrik\Frogger\Source\x64\Debug\nero.exe
+C:\Users\heeee\source\repos\Math\5sd813-assignment-3-nilsson-henrik\Frogger\Source\x64\Debug\nero.pdb
+C:\Users\heeee\source\repos\Math\project_flappy_frog\Frog\Source\x64\Debug\nero.exe
+C:\Users\heeee\source\repos\Math\project_flappy_frog\Frog\Source\x64\Debug\nero.pdb
